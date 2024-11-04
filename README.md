@@ -34,4 +34,4 @@ Opportunity Analysis is a Django-based web application that provides a comprehen
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/dinah-kezia/opportunity-analysis-using-Django.git
-   cd opportunity-analysis
+   cd opportunity_analysis
